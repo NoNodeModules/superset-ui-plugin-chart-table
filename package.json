@@ -1,5 +1,5 @@
 {
-  "name": "@rossmoir/plugin-chart-table",
+  "name": "@rossmoir/plugin-table",
   "version": "0.17.30",
   "description": "Superset Chart - Table",
   "main": "lib/index.js",
